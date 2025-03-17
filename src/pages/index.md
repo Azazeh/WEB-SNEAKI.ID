@@ -1,50 +1,30 @@
 ---
 templateKey: index-page
 title: Great coffee with a conscience
-image: /img/home-jumbotron.jpg
-heading: Great coffee with a conscience
+image: /img/Banner1.jpg
+heading: Tentang Produk
 subheading: Support sustainable farming while enjoying a cup
 mainpitch:
-  title: Why Kaldi
+  title: SNEAKI.ID
   description: >
-    Kaldi is the coffee store for everyone who believes that great coffee
-    shouldn't just taste good, it should do good too. We source all of our beans
-    directly from small scale sustainable farmers and make sure part of the
-    profits are reinvested in their communities.
-description: >-
-  Kaldi is the ultimate spot for coffee lovers who want to learn about their
-  java’s origin and support the farmers that grew it. We take coffee production,
-  roasting and brewing seriously and we’re glad to pass that knowledge to
-  anyone.
+    Sneaki.id adalah ruang untuk kamu yang percaya kalau sepatu bukan sekadar alas kaki. Kami hadir dengan koleksi yang dirancang untuk melengkapi langkah, nyaman dipakai, dan punya gaya yang nggak biasa.
+subdescription: >-
+  Di Sneaki.id, kami menghadirkan berbagai jenis sepatu yang simpel, nyaman, dan mudah dipadukan dengan gaya apa saja. Cocok dipakai untuk aktivitas sehari-hari, mulai dari santai, kerja, sampai hangout. Sepatu-sepatu kami dibuat dari bahan yang ringan dan nyaman, dengan desain yang clean dan timeless—buat kamu yang suka tampil effortless tapi tetap keren di setiap kesempatan.
+
 intro:
   blurbs:
-    - image: /img/coffee.png
+    - image: /img/Produk1.jpg
       text: >
-        We sell green and roasted coffee beans that are sourced directly from
-        independent farmers and farm cooperatives. We’re proud to offer a
-        variety of coffee beans grown with great care for the environment and
-        local communities. Check our post or contact us directly for current
-        availability.
-    - image: /img/coffee-gear.png
+        Di Sneaki.id, kami juga punya koleksi sepatu formal sekolah yang didesain khusus buat menunjang aktivitas sehari-hari di sekolah. Nggak cuma tampil rapi dan sesuai aturan, sepatu kami juga nyaman dipakai seharian—ringan, nggak bikin pegal, dan tahan lama walau dipakai aktif. Cocok buat pelajar yang butuh sepatu kuat tapi tetap gaya. Karena kami paham, sepatu sekolah itu bukan sekadar pelengkap seragam, tapi juga bagian dari kenyamanan dalam belajar dan beraktivitas!
+    - image: /img/produk2.jpg
       text: >
-        We offer a small, but carefully curated selection of brewing gear and
-        tools for every taste and experience level. No matter if you roast your
-        own beans or just bought your first french press, you’ll find a gadget
-        to fall in love with in our shop.
-    - image: /img/tutorials.png
+        Selain sepatu formal sekolah, Sneaki.id juga punya koleksi sepatu casual yang simpel tapi tetap stylish. Desainnya clean dan timeless, gampang dipaduin sama berbagai outfit—mau buat jalan santai, hangout, atau sekadar ngopi sore juga cocok banget. Bahannya ringan dan nyaman, jadi enak dipakai seharian tanpa bikin kaki cepat capek. Sepatu casual dari Sneaki.id dirancang buat kamu yang pengen tampil effortless, tapi tetap keliatan keren di setiap kesempatan.
+    - image: /img/produk3.jpeg
       text: >
-        Love a great cup of coffee, but never knew how to make one? Bought a
-        fancy new Chemex but have no clue how to use it? Don't worry, we’re here
-        to help. You can schedule a custom 1-on-1 consultation with our baristas
-        to learn anything you want to know about coffee roasting and brewing.
-        Email us or call the store for details.
-    - image: /img/meeting-space.png
+        Sneaki.id juga menyediakan sepatu futsal yang dirancang khusus buat kamu yang aktif di lapangan. Dengan sol yang grip-nya kuat dan desain yang ringan, sepatu futsal kami memberikan kenyamanan maksimal saat bergerak cepat dan mengontrol bola. Dibalut dengan bahan yang tahan lama, sepatu ini siap menemani setiap pertandingan dengan performa terbaik. Jadi, buat para pemain futsal yang butuh sepatu nyaman dan berkualitas, Sneaki.id adalah pilihan tepat!
+    - image: /img/produk4.jpeg
       text: >
-        We believe that good coffee has the power to bring people together.
-        That’s why we decided to turn a corner of our shop into a cozy meeting
-        space where you can hang out with fellow coffee lovers and learn about
-        coffee making techniques. All of the artwork on display there is for
-        sale. The full price you pay goes to the artist.
+        Sneaki.id juga menghadirkan sepatu bola dengan kualitas terbaik untuk mendukung performa di lapangan. Didesain khusus untuk memberikan kenyamanan dan daya cengkram maksimal, sepatu bola kami cocok untuk berbagai kondisi lapangan, baik rumput sintetis maupun asli. Dengan teknologi yang memperkuat sol dan memberikan stabilitas saat berlari, sepatu ini membantu meningkatkan kontrol bola dan akselerasi di setiap gerakan. Sepatu bola dari Sneaki.id siap mendukung setiap langkah di pertandingan!
   heading: What we offer
   description: >
     Kaldi is the ultimate spot for coffee lovers who want to learn about their
