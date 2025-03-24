@@ -1,43 +1,28 @@
 ---
 templateKey: 'product-page'
 path: /products
-title: Our Coffee
-image: /img/jumbotron.jpg
-heading: Great coffee with a conscience
+title: Our Products
+image: /img/banner6.jpg
+heading: Koleksi Kami
 description: >-
-  Kaldi is the ultimate spot for coffee lovers who want to learn about their
-  java’s origin and support the farmers that grew it. We take coffee production,
-  roasting and brewing seriously and we’re glad to pass that knowledge to
-  anyone.
+  Sneaki.ID menyajikan berbagai jenis sepatu premium untuk kebutuhan gaya hidup dan olahraga. Berikut adalah 4 kategori produk unggulan kami:
 intro:
   blurbs:
-    - image: /img/coffee.png
+    - image: /img/Produk10.png
       text: >
-        We sell green and roasted coffee beans that are sourced directly from
-        independent farmers and farm cooperatives. We’re proud to offer a
-        variety of coffee beans grown with great care for the environment and
-        local communities. Check our post or contact us directly for current
-        availability.
-    - image: /img/coffee-gear.png
+          Sepatu hiking adalah alas kaki yang dirancang khusus untuk kegiatan mendaki dan berjalan di medan alam terbuka. Sepatu ini memiliki konstruksi kokoh dengan outsole berkontur untuk memberikan cengkeraman kuat pada permukaan yang tidak rata seperti bebatuan, tanah, dan jalur pendakian. Dilengkapi dengan teknologi waterproof untuk melindungi kaki dari air dan kelembaban, serta ankle support untuk mencegah cedera pergelangan kaki saat melalui medan yang sulit. Sepatu hiking juga memiliki cushioning khusus untuk meredam benturan dan memberikan kenyamanan selama perjalanan panjang.
+           
+    - image: /img/Produk11.png
       text: >
-        We offer a small, but carefully curated selection of brewing gear and
-        tools for every taste and experience level. No matter if you roast your
-        own beans or just bought your first french press, you’ll find a gadget
-        to fall in love with in our shop.
-    - image: /img/tutorials.png
+        Sepatu sneakers adalah alas kaki serbaguna yang awalnya dirancang untuk olahraga namun kini populer sebagai sepatu kasual sehari-hari. Memiliki desain yang stylish dengan berbagai variasi model, warna, dan material. Sneakers mengutamakan kenyamanan dengan sol yang empuk dan support yang baik, membuatnya ideal untuk aktivitas sehari-hari. Dari desain minimalis hingga model yang bold dan eye-catching, sneakers telah menjadi item fashion yang esensial dan mencerminkan identitas pemakainya. Koleksi sneakers kami mencakup limited edition dan kolaborasi dengan desainer lokal yang menjadikannya tidak hanya fungsional namun juga bernilai koleksi.
+    - image: /img/Produk12.png
       text: >
-        Love a great cup of coffee, but never knew how to make one? Bought a
-        fancy new Chemex but have no clue how to use it? Don't worry, we’re here
-        to help. You can schedule a custom 1-on-1 consultation with our baristas
-        to learn anything you want to know about coffee roasting and brewing.
-        Email us or call the store for details.
-    - image: /img/meeting-space.png
+        Sepatu running dirancang khusus untuk aktivitas berlari dengan fokus pada cushioning, stabilitas, dan ringan. Dilengkapi dengan teknologi penyerap benturan untuk melindungi sendi dari impact saat kaki menyentuh tanah, serta midsole responsive yang memberikan energi tambahan pada setiap langkah. Bagian upper terbuat dari material breathable untuk menjaga kaki tetap kering dan nyaman saat berlari jarak jauh. Outsole didesain dengan pola grip khusus yang memberikan traksi optimal di berbagai permukaan. Sepatu running kami menawarkan kombinasi sempurna antara performa tinggi dan kenyamanan untuk mendukung aktivitas lari Anda.
+
+    - image: /img/Produk13.png
       text: >
-        We believe that good coffee has the power to bring people together.
-        That’s why we decided to turn a corner of our shop into a cozy meeting
-        space where you can hang out with fellow coffee lovers and learn about
-        coffee making techniques. All of the artwork on display there is for
-        sale. The full price you pay goes to the artist.
+        Sepatu futsal adalah alas kaki khusus untuk olahraga futsal yang dimainkan di lapangan indoor dengan permukaan rata. Memiliki outsole flat dengan grip khusus yang dirancang untuk permukaan lapangan indoor, memberikan traksi yang baik tanpa meninggalkan bekas pada permukaan lapangan (non-marking). Bagian upper sepatu futsal umumnya terbuat dari material yang memberikan sentuhan bola yang presisi dengan fitur control pad untuk mengoptimalkan kontrol bola. Sepatu ini didesain untuk mendukung gerakan cepat, perubahan arah mendadak, dan manuver teknis yang menjadi karakteristik permainan futsal.
+
   heading: What we offer
   description: >
     Kaldi is the ultimate spot for coffee lovers who want to learn about their
@@ -45,57 +30,59 @@ intro:
     production, roasting and brewing seriously and we’re glad to pass that
     knowledge to anyone. This is an edit via identity...
 main:
-  heading: Great coffee with no compromises
+  heading: Keunggulan Kami
   description: >
-    We hold our coffee to the highest standards from the shrub to the cup.
-    That’s why we’re meticulous and transparent about each step of the coffee’s
-    journey. We personally visit each farm to make sure the conditions are
-    optimal for the plants, farmers and the local environment.
+    Material Premium: Seluruh produk menggunakan bahan berkualitas tertinggi.
+
+    Quality Control Ketat: Setiap sepatu melalui 12 tahap inspeksi kualitas.
+
+    Garansi Produk: Semua produk dilengkapi garansi 1 tahun.
+
+    Sertifikat Keaslian: Setiap produk dilengkapi sertifikat dan nomor seri unik.
   image1:
     alt: A close-up of a paper filter filled with ground coffee
-    image: /img/products-grid3.jpg
+    image: /img/banner12.jpg
   image2:
     alt: A green cup of a coffee on a wooden table
-    image: /img/products-grid2.jpg
+    image: /img/banner13.jpg
   image3:
     alt: Coffee beans
-    image: /img/products-grid1.jpg
+    image: /img/banner11.jpg
 testimonials:
-  - author: Elisabeth Kaurismäki
+  - author: Sumanto Vanhouten
     quote: >-
-      The first time I tried Kaldi’s coffee, I couldn’t even believe that was
-      the same thing I’ve been drinking every morning.
-  - author: Philipp Trommler
+      Produk Yang di tawarkan sangat bagus dan harganya juga terjangkau
+  - author: Asep Trommler
     quote: >-
-      Kaldi is the place to go if you want the best quality coffee. I love their
-      stance on empowering farmers and transparency.
-full_image: /img/products-full-width.jpg
+      Pelayanan baguss kasirnya juga ramah ramah tempatnya pun bersih dan wangi
+full_image: /img/banner14.jpg
 pricing:
-  heading: Monthly subscriptions
+  heading: Membership
   description: >-
-    We make it easy to make great coffee a part of your life. Choose one of our
-    monthly subscription plans to receive great coffee at your doorstep each
-    month. Contact us about more details and payment info.
+    Gabung ke dalam membership Untuk mendapatkan banyak promo dan hadiah ekslusif
   plans:
-    - description: Perfect for the drinker who likes to enjoy 1-2 cups per day.
+    - description: Newbie
       items:
-        - 3 lbs of coffee per month
-        - Green or roasted beans"
-        - One or two varieties of beans"
+        - Akses Awal untuk Launching Sepatu
+        - Promo Up To 50%
+        - Free VIP room
       plan: Small
       price: '50'
-    - description: 'Great for avid drinkers, java-loving couples and bigger crowds'
+    - description: Intermediate
       items:
-        - 6 lbs of coffee per month
-        - Green or roasted beans
-        - Up to 4 different varieties of beans
+        - Akses Awal untuk Launching Sepatu
+        - Promo Up To 70%
+        - Free VIP room
+        - Free Merchandise Setiap Pembelian
       plan: Big
       price: '80'
-    - description: Want a few tiny batches from different varieties? Try our custom plan
+    - description: Pro
       items:
-        - Whatever you need
-        - Green or roasted beans
-        - Unlimited varieties
-      plan: Custom
-      price: '??'
+        - Akses Awal untuk Launching Sepatu
+        - Promo Up To 90%
+        - Free VVIP room
+        - Free Merchandise Setiap Pembelian
+        - Bonus Sepatu Setiap Pembelian 2 Pasang Sepatu
+      plan: Spesial
+      price: '100'
 ---

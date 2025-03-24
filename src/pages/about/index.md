@@ -1,19 +1,43 @@
 ---
 templateKey: 'about-page'
 path: /about
-title: About our values
+title: Profile Sneaki.ID
 ---
-### Shade-grown coffee
-Coffee is a small tree or shrub that grows in the forest understory in its wild form, and traditionally was grown commercially under other trees that provided shade. The forest-like structure of shade coffee farms provides habitat for a great number of migratory and resident species.
+### Tentang Kami
+Sneaki.ID adalah perusahaan marketplace sepatu premium berbasis di Indonesia yang berdiri pada tahun 2020. Kami berkomitmen untuk menyediakan sepatu sneakers original dengan kualitas terbaik bagi para penggemar dan kolektor sneakers di seluruh Indonesia.
 
-### Single origin
-Single-origin coffee is coffee grown within a single known geographic origin. Sometimes, this is a single farm or a specific collection of beans from a single country. The name of the coffee is then usually the place it was grown to whatever degree available.
+### Visi & Misi
+Visi:
 
-### Sustainable farming
-Sustainable agriculture is farming in sustainable ways based on an understanding of ecosystem services, the study of relationships between organisms and their environment. What grows where and how it is grown are a matter of choice and careful consideration for nature and communities.
+Menjadi platform marketplace sneakers terpercaya dan terdepan di Indonesia yang menghubungkan penggemar sepatu dengan produk-produk eksklusif dan original.
 
-### Direct sourcing
-Direct trade is a form of sourcing practiced by some coffee roasters. Advocates of direct trade practices promote direct communication and price negotiation between buyer and farmer, along with systems that encourage and incentivize quality.
+Misi:
+- Menyediakan berbagai pilihan sneakers original dan premium dari brand lokal maupun internasional
+- Memastikan keaslian setiap produk melalui proses autentikasi yang ketat
+- Menciptakan komunitas sneakers yang dinamis dan inklusif
+- Mendukung pertumbuhan brand lokal Indonesia di industri sneakers
 
-### Reinvest profits
-We want to truly empower the communities that bring amazing coffee to you. That’s why we reinvest 20% of our profits into farms, local businesses and schools everywhere our coffee is grown. You can see the communities grow and learn more about coffee farming on our blog.
+### Layanan Utama
+1. Marketplace Sneakers Premium
+Platform jual-beli sneakers dengan sistem verifikasi keaslian yang ketat
+
+2. Sneaki Authentication
+Layanan verifikasi keaslian sepatu oleh tim ahli bersertifikat
+
+4. Sneaki Limited Drops
+Akses eksklusif untuk rilisan sneakers terbatas dan edisi khusus
+
+5. Sneaki Community
+Platform komunitas bagi para penggemar sneakers untuk berbagi dan berinteraksi
+
+### Keunggulan Kami
+- Jaminan Keaslian: Setiap produk melalui proses verifikasi keaslian yang ketat
+- Pengiriman Cepat: Sistem logistik yang terintegrasi untuk pengiriman ke seluruh Indonesia
+- Pembayaran Aman: Berbagai metode pembayaran dengan sistem escrow untuk keamanan transaksi
+- Customer Support 24/7: Dukungan pelanggan yang siap membantu kapan saja
+
+### Nilai-Nilai Perusahaan
+- Autentisitas: Menjunjung tinggi keaslian produk tanpa kompromi
+- Komunitas: Mengembangkan dan mendukung komunitas sneakers Indonesia
+- Inovasi: Terus berinovasi dalam layanan dan pengalaman pengguna
+- Kepercayaan: Membangun kepercayaan melalui transparansi dan integritas
